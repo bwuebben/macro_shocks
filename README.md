@@ -41,7 +41,7 @@ replication/
 └── run_analysis.py            # Run analysis only (assumes data ready)
 ```
 
-## ⚠️ MANUAL DATA REQUIREMENTS
+## MANUAL DATA REQUIREMENTS
 
 The following data series are **NOT publicly downloadable** and must be provided manually.
 Place these files in `data/manual/` before running the code.
