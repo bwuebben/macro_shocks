@@ -143,14 +143,6 @@ Edit `config/settings.py` to modify:
 | `figure3_eigenvalue_structure.pdf` | Cumulative variance share | Figure 3 |
 | `figure4_scree_comparison.pdf` | Scree plots: normal vs crisis | Figure 4 |
 
-## Runtime
-
-Expected runtime on a standard laptop:
-- Data download: 2-5 minutes
-- Data processing: 1-2 minutes
-- Full analysis: 5-10 minutes
-- **Total: ~15 minutes**
-
 ## Requirements
 
 - Python 3.9+
@@ -158,5 +150,5 @@ Expected runtime on a standard laptop:
 
 ## Contact
 
-For questions about the code, contact [author].
+For questions about the code, contact [wuebben@gmail.com].
 For questions about manual data sources, see the original papers cited above.
