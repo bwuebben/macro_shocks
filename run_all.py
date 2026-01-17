@@ -12,8 +12,8 @@ This will:
 3. Run all analyses
 4. Generate all tables and figures
 
-⚠️ BEFORE RUNNING: Place required manual data files in data/manual/
-   See README.md for details.
+BEFORE RUNNING: Place required manual data files in data/manual/
+See README.md for details.
 """
 
 import sys
